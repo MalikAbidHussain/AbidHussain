@@ -17,8 +17,6 @@ Check it out here: **[My Portfolio](https://malikabidhussain.github.io/AbidHussa
 👤 Abid Hussain   
 
 📩 **[Email](abid.aries@gmail.com)**  
-
 🔗 **[LinkedIn](https://www.linkedin.com/in/malikabidhussain/)**  
-
-🐙 **[GitHub]([MalikAbidHUssain ](https://malikabidhussain.github.io/AbidHussain/)**  
+🐙 **[GitHub](https://malikabidhussain.github.io/AbidHussain/)**  
 
