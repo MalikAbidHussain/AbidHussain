@@ -14,7 +14,11 @@ Check it out here: **[My Portfolio](https://malikabidhussain.github.io/AbidHussa
 ✔️ Responsive & modern design 🎨  
 ✔️ Easy to navigate menu 🖱️  
 📧 Contact
-👤 Abid Hussain 
-📩 **[Email](abid.aries@gmail.com)**
-🔗 **[LinkedIn](https://www.linkedin.com/in/malikabidhussain/)**
-🐙 **[GitHub](MalikAbidHUssain )**
+👤 Abid Hussain   
+
+📩 **[Email](abid.aries@gmail.com)**  
+
+🔗 **[LinkedIn](https://www.linkedin.com/in/malikabidhussain/)**  
+
+🐙 **[GitHub]([MalikAbidHUssain ](https://malikabidhussain.github.io/AbidHussain/)**  
+
