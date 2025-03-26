@@ -15,6 +15,6 @@ Check it out here: **[My Portfolio](https://malikabidhussain.github.io/AbidHussa
 ✔️ Easy to navigate menu 🖱️  
 📧 Contact
 👤 Abid Hussain 
-📩 Email: abid.aries@gmail.com 
-🔗 LinkedIn: https://www.linkedin.com/in/malikabidhussain/ 
-🐙 GitHub: MalikAbidHUssain 
+📩 **[Email](abid.aries@gmail.com)**
+🔗 **[LinkedIn](https://www.linkedin.com/in/malikabidhussain/)**
+🐙 **[GitHub](MalikAbidHUssain )**
